@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Roman Babyuk a DevOps Lead at Adorama.com. I have more than 10 year of experience in IT.
+This is an example text for Student's demo: I am Roman Babyuk a DevOps Lead at Adorama.com. I have more than 10 year of experience in IT.
 
 ## :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Roman_Babyuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-babyuk-88168b37/) 
